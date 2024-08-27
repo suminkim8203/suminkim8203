@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&fontColor=FFF&height=220&section=header&text=FE:%20KIM-SUMIN&fontSize=40)
+
+![header](https://capsule-render.vercel.app/api?type=Rect&color=000&height=10&section=header)
