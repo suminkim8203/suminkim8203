@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 ![nasa](https://github.com/user-attachments/assets/0244c290-d90e-464d-830d-d57a6fb342de)
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&fontColor=FFF&height=220&section=header&text=FE:%20KIM-SUMIN&fontSize=40)
-
-![header](https://capsule-render.vercel.app/api?type=Rect&color=000&height=10&section=header)
--->
 
 <p align="center">
 ⋆˳˚☁˳⋆˳ ˚ ☾ ˚ ˳⋆ ˚
@@ -62,12 +57,25 @@ Here are some ideas to get you started:
 </p>
 
 
-<br /><br /><br />
->Portfolio
-<p>https://patch-buckthorn-d39.notion.site/Portfolio-30c21c5e3d154902a442591b5bff4537?pvs=4</p>
+<br /><br /><br /><br />
+
+
+
 <br />
 
+>Portfolio
+
+<a href="https://patch-buckthorn-d39.notion.site/Portfolio-30c21c5e3d154902a442591b5bff4537?pvs=4"><img src="https://github.com/user-attachments/assets/1d73254a-3c6d-4864-8fd4-414df65aa8b8"></a>
+<p>*𝐏𝐥𝐞𝐚𝐬𝐞 𝐩𝐫𝐞𝐬𝐬 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞</p>
+
+<br /><br /><br />
+
 >Study
-<p>https://patch-buckthorn-d39.notion.site/04e34282733b4fe5b6811b3f54bd41e1</p>
+
+『• • • 04.15 🖊 06.27 • • •』
+
+<a href="https://patch-buckthorn-d39.notion.site/04e34282733b4fe5b6811b3f54bd41e1"><img src="https://github.com/user-attachments/assets/5cd00042-9be4-4489-87d8-63724ab86c4a"></a>
+<p>*𝐏𝐥𝐞𝐚𝐬𝐞 𝐩𝐫𝐞𝐬𝐬 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞</p>
+
 <br /><br /><br />
 
