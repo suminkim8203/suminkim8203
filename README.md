@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **suminkim8203/suminkim8203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![nasa](https://github.com/user-attachments/assets/0244c290-d90e-464d-830d-d57a6fb342de)
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&fontColor=FFF&height=220&section=header&text=FE:%20KIM-SUMIN&fontSize=40)
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=000&height=10&section=header)
+-->
+
+# Exploring a world as vast as the universe
