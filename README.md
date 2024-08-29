@@ -65,5 +65,9 @@ Here are some ideas to get you started:
 <br /><br /><br />
 >Portfolio
 <p>https://patch-buckthorn-d39.notion.site/Portfolio-30c21c5e3d154902a442591b5bff4537?pvs=4</p>
+<br />
+
+>Study
+<p>https://patch-buckthorn-d39.notion.site/04e34282733b4fe5b6811b3f54bd41e1</p>
 <br /><br /><br />
 
