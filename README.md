@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <div align="center">
   1:07 ——🌙———— -4:05<br/><br/>
   <a href="https://github.com/suminkim8203"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DEB7B7&title_bg=%2367767D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
+
+  
+  ▶
 </div>
 <br/><br/><br/><br/>
 
